@@ -1,0 +1,26 @@
+assignment:(18/07/2020)(blockchain)
+
+ans.1: blockchain is a constantly growing ledger which keep all detailed information that have taken place,keeping all in a secure ,chronological and immutable way in distributed database network where no single authority is there .
+
+ans.2: 1.authenticity.
+2.security.
+3.reliable third party
+
+ans.3: 1.verifiable
+2 .unchangeable.
+3.tamper proof.
+4. immutable
+
+ans.4: block number
+trans record (any important data you want to store)
+previous block key
+mining key
+
+ans.5: Verifiability of Block chain is attained by distributed database and cryptography (SHA 256). In Block chain system , in a block 10 records are sotred at time with block number ,transition records ,previous block signature (generate by SHA 256),mining key (nounce).in block chain all user have same transaction detail with two way encryption (hash algorithm) in chronological order of data.
+BLOCK 1:- A+B=C
+BLOCK 2:- B+D=E
+where A, Genesis block
+B&D are data to be stored
+If any of the user loss data then all other users of that chain have data ,thus they can help the user by providing data .
+if any change is made in block 1 then its hash signature will be change and not matched with block 2 ,so by the help of block 2 having hash signature of block1 will help block 1 can to know it mistake .in this way verifiability is attained in blockchain.
+
